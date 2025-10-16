@@ -13,8 +13,7 @@ EDGE Team is Austin Community College's premier student organization for aspirin
 ### How to Join:
 
 1. **📌 Join Our ACC StudentLife Page**
-   - Visit [ACC StudentLife Portal](https://studentlife.austincc.edu)
-   - Search for "EDGE Team"
+   - Visit [EDGE Team on ACC CampusLabs](https://austincc.campuslabs.com/engage/organization/edgeteam)
    - Click "Join Organization"
 
 2. **💬 Join Our Discord Community**
@@ -69,7 +68,7 @@ EDGE Team is Austin Community College's premier student organization for aspirin
 ### General EDGE Team One-Pagers:
 
 **Click to view in your browser:**
-- [**EDGE_Team_One_Pager.html**](./EDGE_Team_One_Pager.html) - Printable HTML version (open in browser, perfect for printing)
+- [**EDGE_Team_One_Pager.html**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/EDGE_Team_One_Pager.html) - Printable HTML version (open in browser, perfect for printing)
 - [**EDGE_Team_One_Pager.md**](./EDGE_Team_One_Pager.md) - Markdown version (view in any text editor or GitHub)
 
 Both files contain complete information about:
@@ -84,11 +83,11 @@ Both files contain complete information about:
 Tailored information for different academic departments:
 
 **Click to view:**
-- [**Computer Science - NEST-FEST One-Pager**](./department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
-- [**Fashion Incubator - NEST-FEST One-Pager**](./department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
-- [**Hospitality & Culinary - NEST-FEST One-Pager**](./department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
-- [**Liberal Arts - NEST-FEST One-Pager**](./department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
-- [**Marketing - NEST-FEST One-Pager**](./department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
+- [**Computer Science - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
+- [**Fashion Incubator - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
+- [**Hospitality & Culinary - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
+- [**Liberal Arts - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
+- [**Marketing - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
 
 Each department one-pager includes:
 - How NEST-FEST relates to your specific field
@@ -101,7 +100,7 @@ Each department one-pager includes:
 ## 🚀 Next Steps
 
 ### **Immediate Actions:**
-1. ✅ Join our ACC StudentLife page
+1. ✅ Join our ACC StudentLife page: https://austincc.campuslabs.com/engage/organization/edgeteam
 2. ✅ Join our Discord community: https://discord.gg/EgjuFMzV
 3. ✅ Email Abel at abel.rincon@g.austincc.edu
 4. ✅ Read through the EDGE Team One-Pager (links above)
@@ -182,7 +181,7 @@ You don't need to be a business major to join EDGE Team! We serve students from 
 - **Affiliation:** ACC Center for Government and Civic Services
 
 ### **Online Presence:**
-- **StudentLife Page:** [ACC StudentLife Portal](https://studentlife.austincc.edu) (search "EDGE Team")
+- **StudentLife Page:** [EDGE Team on ACC CampusLabs](https://austincc.campuslabs.com/engage/organization/edgeteam)
 - **Discord:** https://discord.gg/EgjuFMzV
 - **Website:** AI Companion Platform (coming soon!)
 - **Social Media:** @EDGETeamACC (handles to be confirmed)
