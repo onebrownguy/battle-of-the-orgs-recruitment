@@ -6,11 +6,11 @@
 
 ## What is EDGE Team?
 
-EDGE Team is a newly recognized student-led organization at Austin Community College focused on empowering student entrepreneurs and building ACC's entrepreneurship ecosystem from the ground up. Registered with ACC Student Life in Summer 2025, we operate under the ACC Center for Government and Civic Services framework.
+EDGE Team is a newly recognized student-led organization at Austin Community College focused on empowering student entrepreneurs and building ACC's entrepreneurship ecosystem from the ground up. Registered with ACC Student Life in Summer 2025.
 
 **Our Mission:** Building ACC's entrepreneurship ecosystem from the ground up - not just coding, but thinking like founders.
 
-**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Supervisor:** Dr. Andrea Kehoe (Office of the Future)
+**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Advisor:** Dr. Andrea Kehoe (Office of the Future)
 
 ---
 
@@ -205,9 +205,9 @@ Help us partner with complementary programs and departments.
 ## Contact Information
 
 **Team President:** Abel Rincon
-**Email:** edge.team@austincc.edu (organizational contact)
-**Faculty Supervisor:** Dr. Andrea Kehoe, Office of the Future
-**Affiliation:** ACC Center for Government and Civic Services
+**Email:** abel.rincon@g.austincc.edu
+**Faculty Advisor:** Dr. Andrea Kehoe, Office of the Future
+**Affiliation:** EDGE Team President
 
 **Website:** [Coming Soon - AI Companion Platform]
 **Social Media:** @EDGETeamACC (handles to be confirmed)

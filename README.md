@@ -183,7 +183,6 @@ This philosophy guides our approach at EDGE Team: we encourage critical thinking
 ### **Faculty Advisor:**
 - **Name:** Dr. Andrea Kehoe
 - **Affiliation:** Office of the Future
-- **Department:** ACC Center for Government and Civic Services
 
 ### **Program Director:**
 - **Name:** Harshal Shah
