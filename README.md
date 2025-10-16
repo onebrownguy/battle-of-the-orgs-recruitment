@@ -170,6 +170,16 @@ You don't need to be a business major to join EDGE Team! We serve students from 
 - **Email:** [abel.rincon@g.austincc.edu](mailto:abel.rincon@g.austincc.edu)
 - **Best For:** Questions about joining, event information, partnership opportunities
 
+#### About Abel Rincon
+
+My name is Abel Rincon, and I'm a student at Austin Community College passionate about bridging technology and entrepreneurship. As a systems architect specializing in business development, cloud architecture, and AI engineering, I believe that the future of innovation lies at the intersection of technical excellence and entrepreneurial thinking.
+
+I founded EDGE Team to create a community where students from all backgrounds can explore entrepreneurship, learn cutting-edge technologies, and build the skills needed to succeed in the modern economy. Whether you're interested in starting a business, learning about AI systems, or simply connecting with like-minded students, I'm here to help you on your journey.
+
+> *"Cogito ergo sum"* - I think, therefore I am.
+
+This philosophy guides our approach at EDGE Team: we encourage critical thinking, continuous learning, and the belief that every student has the potential to create meaningful impact through entrepreneurship and innovation.
+
 ### **Faculty Advisor:**
 - **Name:** Dr. Andrea Kehoe
 - **Affiliation:** Office of the Future
