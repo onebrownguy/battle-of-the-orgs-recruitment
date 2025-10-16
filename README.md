@@ -129,7 +129,7 @@ Each department one-pager includes:
 
 **What is NEST-FEST?**
 - Student startup pitch competition
-- Cash prizes and mentorship opportunities
+- Prizes and mentorship opportunities
 - Networking with Austin tech and business community
 - Open to all ACC students with business ideas
 

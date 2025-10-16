@@ -20,7 +20,7 @@ EDGE Team is a newly recognized student-led organization at Austin Community Col
 **When:** November 7, 2025 | 2:00 PM - 5:00 PM CT
 **What:** Student startup pitch competition with prizes, mentorship, and networking
 **Who Can Participate:** All ACC students with business ideas
-**Prizes:** Cash awards and mentorship opportunities
+**Prizes:** Awards and mentorship opportunities
 
 ### Campus Ambassador Program
 **Goal:** Recruit 24 campus ambassadors across all ACC campuses
