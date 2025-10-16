@@ -12,27 +12,92 @@ The NFC card you received can be repurposed to link directly to our resources, y
 
 #### **For Android Users:**
 
-1. **Download NFC Tools** (Free)
-   - 📲 [Google Play Store - NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc)
-   - Developer: wakdev
-   - Rating: 4.5+ stars | 10M+ downloads
+**📱 Device Compatibility:**
+- ✅ Most Android phones from 2014+ have NFC capability
+- ✅ Check: Settings → Connected Devices → Connection Preferences → NFC
+- ✅ Enable NFC before using NFC Tools
 
-2. **How to Use NFC Tools:**
-   - Open the app and tap the "**WRITE**" tab
-   - Select "**Add a record**"
-   - Choose record type:
-     - **URL/URI** - Link to a website
-     - **Contact (vCard)** - Share your contact information
-     - **Text** - Store any text information
-     - **Social Media** - Direct link to Instagram, LinkedIn, etc.
-   - Enter your information
-   - Tap "**Write**" and hold your card against the back of your phone
-   - ✅ Done! Your card is now programmed
+**Step 1: Download NFC Tools** (Free)
+- 📲 [Google Play Store - NFC Tools](https://play.google.com/store/apps/details?id=com.wakdev.wdnfc)
+- Developer: wakdev
+- Rating: 4.5+ stars | 10M+ downloads
+- Size: ~8 MB
+- No account required, no in-app purchases needed
 
-3. **Pro Tips:**
-   - You can store multiple records on one card
-   - Use the "**READ**" tab to verify what's on your card
-   - Save your configurations to reprogram cards quickly later
+**Step 2: Prepare Your Content**
+
+Before programming, decide what you want to share:
+- 🌐 Your portfolio website URL
+- 📧 Your email and contact info (vCard)
+- 💼 LinkedIn profile link
+- 📱 Social media profiles
+
+**Step 3: Program Your NFC Card**
+
+1. **Open NFC Tools** app
+2. Tap the **"WRITE"** tab at the bottom
+3. Tap **"Add a record"** (big blue button)
+4. **Choose your record type:**
+
+   **Option A: URL/URI** (Most popular)
+   - Select "URL/URI"
+   - Enter your full website URL (including https://)
+   - Example: `https://yourportfolio.com` or `https://linkedin.com/in/yourname`
+
+   **Option B: Contact Card (vCard)**
+   - Select "Contact (vCard)"
+   - Fill in your details:
+     - Name, phone, email
+     - Company/organization
+     - Website and social media
+   - When someone taps your card, they can instantly save your contact
+
+   **Option C: Multiple Records** (Advanced)
+   - Add multiple records to one card
+   - Example: URL + Social Media links
+   - Tap "Add a record" multiple times
+
+5. **Review your record(s)**
+   - Check spelling and links carefully
+   - Tap "✓" or "OK" to confirm
+
+6. **Write to card:**
+   - Tap **"Write"** button (checkmark at top right)
+   - You'll see "Ready to scan" message
+   - **Hold your NFC card flat against the back of your phone**
+   - **Keep it steady for 2-3 seconds**
+   - Wait for success confirmation ✅
+
+7. **Test your card:**
+   - Tap "READ" tab
+   - Scan your card to verify content
+   - Test with another phone if possible
+
+**🔧 Troubleshooting:**
+
+**"No NFC tag detected":**
+- ✅ Make sure NFC is enabled in phone settings
+- ✅ Remove phone case (it may block signal)
+- ✅ Try different positions on the back of phone
+- ✅ Hold card steady for 3-5 seconds
+
+**"Write failed":**
+- ✅ Card may be read-only (check card packaging)
+- ✅ Try formatting the card first (Advanced settings in app)
+- ✅ Card may be too full (delete old records first)
+
+**"Can't find NFC setting":**
+- ✅ Search phone settings for "NFC"
+- ✅ May be under: Connections, Wireless, or More Networks
+- ✅ Your phone may not support NFC (check specs online)
+
+**💡 Pro Tips:**
+- 💾 **Save configurations** - Tap "Save" in app to reuse later
+- 🔄 **Erase and rewrite** - Cards can be reprogrammed unlimited times
+- 🔒 **Lock your card** - Prevent accidental overwrites (Advanced settings)
+- 📱 **Test on multiple phones** - Android and iPhone read differently
+- 🎨 **Add multiple records** - Combine URL + social media links
+- 📊 **Track scans** - Use link shorteners (bit.ly) to track card taps
 
 #### **For iPhone Users (iOS 13+):**
 
