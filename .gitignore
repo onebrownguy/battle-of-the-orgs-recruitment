@@ -1,0 +1,75 @@
+# Environment Variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# API Keys & Credentials
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.json
+config/secrets.yml
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Node modules (if any dependencies added later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Build Output (if project grows)
+dist/
+build/
+out/
+
+# Private Notes
+PRIVATE_*
+*_PRIVATE.*
+notes.txt
+TODO.txt
+
+# Backup Files
+*.backup
+*.bak
+*.old
+
+# Email Lists (in case they're added)
+email-lists/
+contact-lists/
+*.csv
+
+# Personal Information
+personal/
+confidential/

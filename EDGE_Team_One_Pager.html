@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EDGE Team - Austin Community College Student Organization</title>
+    <style>
+        /* Print-ready styling for 8.5x11 inch format */
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&family=Playfair+Display:wght@700&display=swap');
+
+        :root {
+            --acc-purple: #512698;
+            --acc-purple-light: #6b3bb8;
+            --acc-purple-dark: #3d1c75;
+            --accent-gold: #f4a900;
+            --text-dark: #1f2937;
+            --text-gray: #4b5563;
+            --background: #ffffff;
+            --border-color: #e5e7eb;
+        }
+
+        @page {
+            size: letter;
+            margin: 0.5in;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            font-size: 10pt;
+            line-height: 1.4;
+            color: var(--text-dark);
+            background: var(--background);
+            max-width: 8.5in;
+            margin: 0 auto;
+            padding: 0.5in;
+        }
+
+        /* Header Section */
+        .header {
+            text-align: center;
+            background: linear-gradient(135deg, var(--acc-purple) 0%, var(--acc-purple-dark) 100%);
+            color: white;
+            padding: 20px 30px;
+            margin-bottom: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .logo {
+            font-size: 48px;
+            margin-bottom: 8px;
+        }
+
+        .header h1 {
+            font-family: 'Playfair Display', serif;
+            font-size: 28pt;
+            font-weight: 700;
+            margin-bottom: 6px;
+            letter-spacing: -0.5px;
+        }
+
+        .tagline {
+            font-size: 12pt;
+            font-weight: 400;
+            opacity: 0.95;
+            font-style: italic;
+        }
+
+        /* Two-column layout for print efficiency */
+        .two-column {
+            column-count: 2;
+            column-gap: 20px;
+            column-rule: 1px solid var(--border-color);
+        }
+
+        .no-break {
+            break-inside: avoid;
+            page-break-inside: avoid;
+        }
+
+        /* Section styling */
+        section {
+            margin-bottom: 16px;
+        }
+
+        h2 {
+            font-size: 14pt;
+            font-weight: 700;
+            color: var(--acc-purple);
+            margin-bottom: 8px;
+            border-bottom: 2px solid var(--acc-purple);
+            padding-bottom: 4px;
+        }
+
+        h3 {
+            font-size: 11pt;
+            font-weight: 700;
+            color: var(--acc-purple-dark);
+            margin-top: 10px;
+            margin-bottom: 6px;
+        }
+
+        p, li {
+            margin-bottom: 6px;
+            text-align: justify;
+        }
+
+        ul {
+            margin-left: 18px;
+            margin-bottom: 10px;
+        }
+
+        li {
+            margin-bottom: 4px;
+        }
+
+        /* Highlight boxes */
+        .highlight-box {
+            background: #f9fafb;
+            border-left: 4px solid var(--accent-gold);
+            padding: 12px 15px;
+            margin: 12px 0;
+            border-radius: 4px;
+        }
+
+        .stat-box {
+            background: linear-gradient(135deg, #f3f4f6 0%, #e5e7eb 100%);
+            border: 2px solid var(--acc-purple);
+            padding: 12px;
+            text-align: center;
+            border-radius: 6px;
+            margin: 10px 0;
+        }
+
+        .stat-number {
+            font-size: 24pt;
+            font-weight: 800;
+            color: var(--acc-purple);
+            display: block;
+            line-height: 1;
+        }
+
+        .stat-label {
+            font-size: 9pt;
+            color: var(--text-gray);
+            margin-top: 4px;
+            display: block;
+        }
+
+        /* Event callout */
+        .event-callout {
+            background: linear-gradient(135deg, var(--accent-gold) 0%, #e09600 100%);
+            color: white;
+            padding: 15px;
+            border-radius: 6px;
+            margin: 12px 0;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+        }
+
+        .event-callout h3 {
+            color: white;
+            font-size: 14pt;
+            margin: 0 0 6px 0;
+        }
+
+        .event-callout p {
+            margin: 4px 0;
+            font-size: 10pt;
+        }
+
+        /* Contact section */
+        .contact-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .contact-item {
+            font-size: 9pt;
+        }
+
+        .contact-item strong {
+            color: var(--acc-purple);
+        }
+
+        /* Footer */
+        .footer {
+            margin-top: 20px;
+            padding-top: 12px;
+            border-top: 2px solid var(--border-color);
+            text-align: center;
+            font-size: 8pt;
+            color: var(--text-gray);
+        }
+
+        /* QR code placeholder */
+        .qr-placeholder {
+            width: 80px;
+            height: 80px;
+            background: #f3f4f6;
+            border: 2px dashed var(--acc-purple);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 10px auto;
+            border-radius: 4px;
+            font-size: 8pt;
+            color: var(--text-gray);
+        }
+
+        /* Benefits list with icons */
+        .benefit-item {
+            display: flex;
+            align-items: flex-start;
+            margin-bottom: 8px;
+        }
+
+        .benefit-icon {
+            font-size: 14pt;
+            margin-right: 8px;
+            flex-shrink: 0;
+        }
+
+        .benefit-text {
+            flex: 1;
+        }
+
+        /* Call to action box */
+        .cta-box {
+            background: var(--acc-purple);
+            color: white;
+            padding: 15px;
+            border-radius: 6px;
+            text-align: center;
+            margin: 15px 0;
+        }
+
+        .cta-box h3 {
+            color: white;
+            margin: 0 0 8px 0;
+            font-size: 12pt;
+        }
+
+        .cta-box p {
+            margin: 4px 0;
+            font-size: 9pt;
+        }
+
+        /* Stats grid */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 8px;
+            margin: 12px 0;
+        }
+
+        .stat-card {
+            background: #f9fafb;
+            border: 1px solid var(--border-color);
+            padding: 10px;
+            text-align: center;
+            border-radius: 4px;
+        }
+
+        .stat-card .number {
+            font-size: 18pt;
+            font-weight: 700;
+            color: var(--acc-purple);
+            display: block;
+        }
+
+        .stat-card .label {
+            font-size: 8pt;
+            color: var(--text-gray);
+            margin-top: 4px;
+        }
+
+        /* Single column sections */
+        .full-width {
+            column-span: all;
+        }
+
+        strong {
+            color: var(--acc-purple-dark);
+        }
+
+        /* Print optimization */
+        @media print {
+            body {
+                padding: 0;
+            }
+
+            .no-print {
+                display: none;
+            }
+
+            .header {
+                box-shadow: none;
+            }
+
+            .event-callout {
+                box-shadow: none;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Header Section -->
+    <header class="header">
+        <div class="logo">🤝</div>
+        <h1>EDGE Team</h1>
+        <p class="tagline">Empowering Student Entrepreneurs at Austin Community College</p>
+    </header>
+
+    <!-- Main Content - Two Column Layout -->
+    <div class="two-column">
+        <!-- What is EDGE Team -->
+        <section class="no-break">
+            <h2>What is EDGE Team?</h2>
+            <p>EDGE Team is a newly recognized student-led organization at Austin Community College focused on empowering student entrepreneurs and building ACC's entrepreneurship ecosystem from the ground up.</p>
+            <p><strong>Registered:</strong> Summer 2025 with ACC Student Life<br>
+            <strong>President:</strong> Abel Rincon<br>
+            <strong>Faculty Supervisor:</strong> Dr. Andrea Kehoe (Office of the Future)</p>
+            <div class="highlight-box">
+                <strong>Our Mission:</strong> Building ACC's entrepreneurship ecosystem from the ground up - not just coding, but thinking like founders.
+            </div>
+        </section>
+
+        <!-- NEST-FEST Event Callout -->
+        <section class="no-break">
+            <div class="event-callout">
+                <h3>🎯 NEST-FEST Pitch Competition</h3>
+                <p><strong>November 7, 2025 | 2:00-6:00 PM CT</strong></p>
+                <p><strong>📍 Presentation Hall, ACC Riverside Campus</strong></p>
+                <p>Student startup pitch competition with cash prizes, mentorship, and networking opportunities</p>
+                <p><strong>VIP Reception: 6:00-8:00 PM (exclusive, by invitation)</strong></p>
+                <p><strong>Open to all ACC students with business ideas!</strong></p>
+            </div>
+        </section>
+
+        <!-- Key Programs -->
+        <section class="no-break">
+            <h2>Key Programs</h2>
+
+            <h3>Campus Ambassador Program</h3>
+            <ul>
+                <li><strong>Goal:</strong> Recruit 24 ambassadors across all ACC campuses</li>
+                <li><strong>Benefits:</strong> Leadership experience, co-curricular credit, professional networking</li>
+                <li><strong>Time:</strong> 2-4 hours per week</li>
+            </ul>
+
+            <h3>Monthly Workshops</h3>
+            <ul>
+                <li>Business Model Validation</li>
+                <li>Customer Discovery & Market Research</li>
+                <li>Pitch Preparation Skills</li>
+                <li>AI Tools for Entrepreneurs</li>
+                <li>Team Building for Founders</li>
+            </ul>
+
+            <h3>Networking Events</h3>
+            <ul>
+                <li>Connect with Austin tech community</li>
+                <li>Meet successful ACC alumni entrepreneurs</li>
+                <li>Access MBA student mentorship</li>
+                <li>Attend SXSW, ACL, RiverHacks events</li>
+            </ul>
+        </section>
+
+        <!-- Benefits for Students -->
+        <section class="no-break">
+            <h2>Benefits for ACC Students</h2>
+
+            <div class="benefit-item">
+                <span class="benefit-icon">🎓</span>
+                <div class="benefit-text">
+                    <strong>Professional Development:</strong> Direct mentorship from business professionals with MBA backgrounds
+                </div>
+            </div>
+
+            <div class="benefit-item">
+                <span class="benefit-icon">📜</span>
+                <div class="benefit-text">
+                    <strong>Academic Recognition:</strong> Co-curricular transcript credit and leadership positions
+                </div>
+            </div>
+
+            <div class="benefit-item">
+                <span class="benefit-icon">🛠️</span>
+                <div class="benefit-text">
+                    <strong>Resources & Support:</strong> Free workshops, AI tools, and ACC funding access
+                </div>
+            </div>
+
+            <div class="benefit-item">
+                <span class="benefit-icon">🤝</span>
+                <div class="benefit-text">
+                    <strong>Community:</strong> Network of student entrepreneurs and collaborative opportunities
+                </div>
+            </div>
+        </section>
+
+        <!-- Stats Section -->
+        <section class="no-break">
+            <h2>EDGE Team by the Numbers</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <span class="number">685+</span>
+                    <span class="label">Resources & Documents</span>
+                </div>
+                <div class="stat-card">
+                    <span class="number">40+</span>
+                    <span class="label">Events Planned 2025-26</span>
+                </div>
+                <div class="stat-card">
+                    <span class="number">11</span>
+                    <span class="label">ACC Campuses Served</span>
+                </div>
+                <div class="stat-card">
+                    <span class="number">24</span>
+                    <span class="label">Campus Ambassadors Goal</span>
+                </div>
+                <div class="stat-card">
+                    <span class="number">60+</span>
+                    <span class="label">Members by May 2026</span>
+                </div>
+                <div class="stat-card">
+                    <span class="number">60%+</span>
+                    <span class="label">Retention Rate Target</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Benefits for Campuses -->
+        <section class="no-break">
+            <h2>Benefits for ACC Campuses</h2>
+
+            <h3>Enhanced Student Engagement</h3>
+            <ul>
+                <li>Increased extracurricular participation</li>
+                <li>Leadership development opportunities</li>
+                <li>Cross-campus collaboration</li>
+                <li>Student retention through community building</li>
+            </ul>
+
+            <h3>Ecosystem Development</h3>
+            <ul>
+                <li>Strengthen ACC's innovation reputation</li>
+                <li>Connect students with local business community</li>
+                <li>Create pathways for student startup success</li>
+                <li>Support ACC's student success mission</li>
+            </ul>
+
+            <h3>Partnership Opportunities</h3>
+            <ul>
+                <li>Co-host entrepreneurship workshops</li>
+                <li>Organize pitch competitions</li>
+                <li>Facilitate networking events</li>
+                <li>Alumni engagement initiatives</li>
+            </ul>
+        </section>
+
+        <!-- Who Can Benefit -->
+        <section class="no-break">
+            <h2>All Majors Welcome!</h2>
+            <p><strong>EDGE Team serves students from every academic discipline:</strong></p>
+            <ul>
+                <li><strong>Business:</strong> Practical application of classroom concepts</li>
+                <li><strong>STEM:</strong> Learn to commercialize technical innovations</li>
+                <li><strong>Liberal Arts:</strong> Develop communication & leadership skills</li>
+                <li><strong>Health Sciences:</strong> Explore healthcare entrepreneurship</li>
+                <li><strong>Culinary:</strong> Food truck & restaurant business development</li>
+                <li><strong>Design:</strong> Creative entrepreneurship & freelancing</li>
+                <li><strong>Education:</strong> EdTech innovation opportunities</li>
+                <li><strong>Everyone Else:</strong> Entrepreneurial thinking benefits all careers</li>
+            </ul>
+        </section>
+
+        <!-- Partnership Opportunities -->
+        <section class="no-break">
+            <h2>Partnership Opportunities</h2>
+
+            <h3>1. Campus Ambassador Recruitment</h3>
+            <p>Help us identify motivated students to represent entrepreneurship on your campus.</p>
+
+            <h3>2. Event Collaboration</h3>
+            <p>Co-host lunch-and-learn workshops, pitch competitions, and innovation showcases.</p>
+
+            <h3>3. Support NEST-FEST (November 7th!)</h3>
+            <p>Promote our flagship pitch competition (Nov 7, 2:00-6:00 PM at Riverside) and encourage student participation.</p>
+
+            <h3>4. Program Connections</h3>
+            <p>Partner with Business, Computer Science, Culinary Arts, and Career Services.</p>
+        </section>
+    </div>
+
+    <!-- Full-width CTA Section -->
+    <div class="full-width">
+        <div class="cta-box">
+            <h3>Ready to Bring Entrepreneurship to Your Campus?</h3>
+            <p>Contact us today to schedule a meeting and discuss partnership opportunities.</p>
+            <p><strong>Together, we can build ACC's entrepreneurship ecosystem from the ground up.</strong></p>
+        </div>
+    </div>
+
+    <!-- Contact Information -->
+    <section class="full-width no-break">
+        <h2>Contact Information</h2>
+        <div class="contact-grid">
+            <div class="contact-item">
+                <strong>Team President:</strong> Abel Rincon
+            </div>
+            <div class="contact-item">
+                <strong>Email:</strong> edge.team@austincc.edu
+            </div>
+            <div class="contact-item">
+                <strong>Faculty Supervisor:</strong> Dr. Andrea Kehoe
+            </div>
+            <div class="contact-item">
+                <strong>Affiliation:</strong> ACC Center for Government & Civic Services
+            </div>
+        </div>
+        <div class="qr-placeholder">
+            QR Code<br>[Website Coming Soon]
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p><strong>About ACC Student Organization Compliance:</strong> EDGE Team is a recognized student organization operating in full compliance with ACC Student Organizations guidelines. Registered Summer 2025 with 3-year renewable registration.</p>
+        <p style="margin-top: 8px;"><strong>Mission Alignment:</strong> EDGE Team supports ACC's institutional mission through student success, equity and access, community engagement, innovation, and leadership development.</p>
+        <p style="margin-top: 8px; font-size: 7pt;"><em>EDGE Team is a registered student organization at Austin Community College. This document is intended for informational purposes and campus partnership outreach. All activities comply with ACC Student Organizations guidelines and policies.</em></p>
+        <p style="margin-top: 4px; font-size: 7pt;"><strong>Document Version 1.0 | October 2025</strong></p>
+    </footer>
+</body>
+</html>
