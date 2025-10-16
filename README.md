@@ -101,19 +101,165 @@ Before programming, decide what you want to share:
 
 #### **For iPhone Users (iOS 13+):**
 
-1. **Download NFC Tools** (Free)
-   - 📲 [App Store - NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
-   - Same developer as Android version
+**📱 Device Compatibility:**
 
-2. **Important iPhone Notes:**
-   - iPhone 7/8: Limited NFC functionality (read-only in many cases)
-   - iPhone XS and newer: Full read/write capabilities
-   - Make sure NFC is enabled in Settings
+**✅ Full NFC Read/Write Support:**
+- iPhone XS, XS Max, XR (2018+)
+- iPhone 11, 11 Pro, 11 Pro Max
+- iPhone 12, 12 Mini, 12 Pro, 12 Pro Max
+- iPhone 13, 13 Mini, 13 Pro, 13 Pro Max
+- iPhone 14, 14 Plus, 14 Pro, 14 Pro Max
+- iPhone 15, 15 Plus, 15 Pro, 15 Pro Max
 
-3. **Alternative: Shortcuts App (Built-in)**
-   - Use Apple's native **Shortcuts** app to create automation triggers
-   - Go to Shortcuts > Automation > Create Personal Automation > NFC
-   - Scan your card and assign actions (open website, send message, etc.)
+**⚠️ Limited NFC Support (Read-only):**
+- iPhone 7, 7 Plus (iOS 11+) - Can read, limited writing
+- iPhone 8, 8 Plus (iOS 11+) - Can read, limited writing
+- iPhone X (iOS 11+) - Can read, limited writing
+
+**❌ No NFC Support:**
+- iPhone 6s and older
+
+**🔍 How to Check NFC on Your iPhone:**
+- NFC is always on (no settings toggle needed on newer models)
+- Background NFC reading works automatically
+- For writing, you need a compatible app
+
+---
+
+**Method 1: NFC Tools App (Recommended)**
+
+**Step 1: Download NFC Tools** (Free)
+- 📲 [App Store - NFC Tools](https://apps.apple.com/us/app/nfc-tools/id1252962749)
+- Developer: wakdev (same as Android version)
+- Size: ~15 MB
+- iOS 13.0 or later required
+- No account required, no subscriptions
+
+**Step 2: Enable NFC Access**
+1. First time opening the app, **allow NFC permissions**
+2. Tap "OK" when prompted to access NFC
+3. If you missed it: Settings → NFC Tools → Enable NFC
+
+**Step 3: Program Your NFC Card**
+
+1. **Open NFC Tools** app
+2. Tap **"Write"** tab at the bottom
+3. Tap **"Add a record"** button
+4. **Choose your record type:**
+
+   **Option A: URL** (Most popular)
+   - Select "URL/URI"
+   - Enter complete URL with https://
+   - Example: `https://yourportfolio.com`
+   - Example: `https://linkedin.com/in/yourname`
+
+   **Option B: Contact (vCard)**
+   - Select "Contact"
+   - Fill in your information:
+     - Full name
+     - Phone number (with country code)
+     - Email address
+     - Organization/title
+     - Website
+   - iPhone will offer to save contact when tapped
+
+   **Option C: Text Message**
+   - Select "Text"
+   - Write any custom message
+   - Great for instructions or notes
+
+5. **Review your content**
+   - Double-check spelling and URLs
+   - Tap "OK" or checkmark to confirm
+
+6. **Write to your card:**
+   - Tap **"Write"** button (top right)
+   - You'll see "**Ready to scan NFC tag**" message
+   - **Hold your iPhone near the top edge of the NFC card**
+   - **iPhone NFC antenna is at the top of the phone, near the camera**
+   - Keep steady for 2-3 seconds
+   - You'll feel a haptic vibration and see ✅ success message
+
+7. **Test your card:**
+   - Exit the app completely
+   - **Simply hold card near top of iPhone** (no app needed!)
+   - A notification should appear at the top
+   - Tap notification to open URL or save contact
+
+**🔧 iPhone Troubleshooting:**
+
+**"NFC tag not detected":**
+- ✅ Hold card near **top edge** of iPhone (not back like Android)
+- ✅ Remove thick phone cases
+- ✅ Make sure iOS is updated (Settings → General → Software Update)
+- ✅ Try airplane mode OFF
+- ✅ Restart iPhone if issues persist
+
+**"This NFC tag cannot be read":**
+- ✅ Card may be formatted for Android only
+- ✅ Try "Format" option in NFC Tools advanced settings
+- ✅ Card may be locked or damaged
+
+**"Write failed" or "Tag is locked":**
+- ✅ Card may be write-protected
+- ✅ Try different NFC card
+- ✅ Some cards are read-only by design
+
+**App won't open or crashes:**
+- ✅ Update app from App Store
+- ✅ Restart iPhone
+- ✅ Check iOS version (needs iOS 13+)
+- ✅ Re-install app if needed
+
+---
+
+**Method 2: Apple Shortcuts App (Built-in Alternative)**
+
+**When to use Shortcuts:**
+- ✅ No app download needed (comes with iOS)
+- ✅ Great for personal automation
+- ✅ Can trigger complex actions
+- ❌ Cannot write to blank cards (only reads existing cards)
+
+**How to Set Up NFC Automation with Shortcuts:**
+
+1. **Open Shortcuts app** (pre-installed on iOS 13+)
+2. Tap **"Automation"** tab at the bottom
+3. Tap **"+" button** (top right)
+4. Tap **"Create Personal Automation"**
+5. Scroll down and select **"NFC"**
+6. Tap **"Scan"** and hold your programmed NFC card near top of iPhone
+7. Give your automation a name (e.g., "My Portfolio Card")
+8. Tap **"Next"**
+9. **Add actions:**
+   - Tap "Add Action"
+   - Search for actions like:
+     - **"Open URLs"** - Opens website when card is tapped
+     - **"Send Message"** - Auto-text someone
+     - **"Open App"** - Launch specific app
+     - **"Share"** - Share content
+10. Configure your action (e.g., enter your portfolio URL)
+11. Tap **"Next"** → Toggle OFF "Ask Before Running" for instant action
+12. Tap **"Done"**
+
+**Now when anyone taps your NFC card with an iPhone, it will automatically trigger your chosen action!**
+
+**Popular Shortcut Actions:**
+- 🌐 Open your portfolio website
+- 📧 Compose email to you
+- 📱 Open your Instagram/LinkedIn
+- 💼 Add you as a contact
+- 📲 Share your app download link
+
+**💡 iPhone Pro Tips:**
+- 🔔 **Background scanning** - iPhone automatically scans NFC in background (no app needed!)
+- 🔒 **Security** - iPhone shows notification before opening URLs (prevents malicious links)
+- 🎯 **Consistent positioning** - NFC antenna is always at top of iPhone, near Face ID sensors
+- 📱 **Notification style** - iPhone shows banner notification when NFC tag detected
+- 🔋 **Low power mode** - NFC may not work in extreme low power mode
+- ✈️ **Airplane mode** - NFC works even in airplane mode (unlike NFC on some Androids)
+- 🔄 **Re-reading** - Just tap card again if notification disappears
+- 👥 **Sharing** - Your programmed card works on both iPhone AND Android devices
 
 #### **Recommended Use Cases for Your NFC Card:**
 
