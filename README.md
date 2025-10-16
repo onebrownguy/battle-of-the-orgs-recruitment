@@ -182,8 +182,9 @@ This philosophy guides our approach at EDGE Team: we encourage critical thinking
 
 ### **Faculty Advisor:**
 - **Name:** Dr. Andrea Kehoe
+- **Title:** Head of Product
 - **Affiliation:** Student Organization Advisor
-- **Department:** Office of the Future
+- **Department:** Office of the Provost
 
 ### **Program Director:**
 - **Name:** Harshal Shah
