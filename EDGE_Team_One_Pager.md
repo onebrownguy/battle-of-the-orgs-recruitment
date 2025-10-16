@@ -17,10 +17,12 @@ EDGE Team is a newly recognized student-led organization at Austin Community Col
 ## Key Programs and Events
 
 ### NEST-FEST Student Pitch Competition
-**When:** November 7, 2025 | 2:00 PM - 5:00 PM CT
+**When:** November 7, 2025 | 2:00 PM - 6:00 PM CT
+**Where:** Presentation Hall, ACC Riverside Campus
 **What:** Student startup pitch competition with prizes, mentorship, and networking
 **Who Can Participate:** All ACC students with business ideas
 **Prizes:** Awards and mentorship opportunities
+**VIP Reception:** 5:00 PM - 6:00 PM (exclusive, by invitation)
 
 ### Campus Ambassador Program
 **Goal:** Recruit 24 campus ambassadors across all ACC campuses
