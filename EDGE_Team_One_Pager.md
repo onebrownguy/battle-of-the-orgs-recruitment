@@ -10,7 +10,7 @@ EDGE Team is a newly recognized student-led organization at Austin Community Col
 
 **Our Mission:** Building ACC's entrepreneurship ecosystem from the ground up - not just coding, but thinking like founders.
 
-**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Advisor:** Dr. Andrea Kehoe (Office of the Future)
+**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Advisors:** Dr. Andrea Kehoe (Office of the Future), Harshal Shah
 
 ---
 
@@ -206,7 +206,7 @@ Help us partner with complementary programs and departments.
 
 **Team President:** Abel Rincon
 **Email:** abel.rincon@g.austincc.edu
-**Faculty Advisor:** Dr. Andrea Kehoe, Office of the Future
+**Faculty Advisors:** Dr. Andrea Kehoe (Office of the Future), Harshal Shah
 **Affiliation:** EDGE Team President
 
 **Website:** [Coming Soon - AI Companion Platform]

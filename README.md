@@ -180,14 +180,12 @@ I founded EDGE Team to create a community where students from all backgrounds ca
 
 This philosophy guides our approach at EDGE Team: we encourage critical thinking, continuous learning, and the belief that every student has the potential to create meaningful impact through entrepreneurship and innovation.
 
-### **Faculty Advisor:**
-- **Name:** Dr. Andrea Kehoe
-- **Affiliation:** Office of the Future
-
-### **Program Director:**
-- **Name:** Harshal Shah
-- **Title:** Program Director for Entrepreneurship & Innovation Academy
-- **Affiliation:** ACC Center for Government and Civic Services
+### **Faculty Advisors:**
+- **Dr. Andrea Kehoe**
+  - **Affiliation:** Office of the Future
+- **Harshal Shah**
+  - **Title:** Program Director for Entrepreneurship & Innovation Academy
+  - **Affiliation:** ACC Center for Government and Civic Services
 
 ### **Online Presence:**
 - **StudentLife Page:** [EDGE Team on ACC CampusLabs](https://austincc.campuslabs.com/engage/organization/edgeteam)
