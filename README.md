@@ -125,7 +125,7 @@ Each department one-pager includes:
 **📅 Date:** November 7, 2025
 **⏰ Time:** 2:00 PM - 6:00 PM CT
 **📍 Location:** Presentation Hall, ACC Riverside Campus
-**🎉 VIP Reception:** 6:00 PM - 8:00 PM (by invitation)
+**🎉 VIP Reception:** 5:00 PM - 6:00 PM (by invitation)
 
 **What is NEST-FEST?**
 - Student startup pitch competition
