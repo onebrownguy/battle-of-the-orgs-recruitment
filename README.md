@@ -73,7 +73,7 @@ EDGE Team is Austin Community College's premier student organization for aspirin
 
 Both files contain complete information about:
 - What EDGE Team is and our mission
-- Upcoming events (including NEST-FEST on November 7, 2025)
+- Upcoming events (including NEST-FEST on Friday, November 7, 2025)
 - Benefits for students and campuses
 - How to get involved
 - Contact information
@@ -104,7 +104,7 @@ Each department information sheet includes:
 2. ✅ Join our Discord community: https://discord.gg/EgjuFMzV
 3. ✅ Email Abel at abel.rincon@g.austincc.edu
 4. ✅ Read through the EDGE Team information sheet (links above)
-5. ✅ Mark your calendar for NEST-FEST (November 7, 2025)
+5. ✅ Mark your calendar for NEST-FEST (Friday, November 7, 2025)
 
 ### **This Week:**
 - Attend our next meeting (check StudentLife page for schedule)
@@ -122,7 +122,7 @@ Each department information sheet includes:
 
 ## 🎯 Our Flagship Event: NEST-FEST
 
-**📅 Date:** November 7, 2025
+**📅 Date:** Friday, November 7, 2025
 **⏰ Time:** 2:00 PM - 6:00 PM CT
 **📍 Location:** Presentation Hall, ACC Riverside Campus
 **🎉 VIP Reception:** 5:00 PM - 6:00 PM (by invitation)
