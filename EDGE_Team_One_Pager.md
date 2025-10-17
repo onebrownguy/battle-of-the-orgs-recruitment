@@ -24,6 +24,10 @@ EDGE Team is a newly recognized student-led organization at Austin Community Col
 **Prizes:** Awards and mentorship opportunities
 **VIP Reception:** 5:00 PM - 6:00 PM (exclusive, by invitation)
 
+**🎯 Take Action:**
+- **[Register to Attend](https://nest-fest.org/)** - Free for ACC students
+- **Apply to Pitch** - Compete for prizes and mentorship
+
 ### Campus Ambassador Program
 **Goal:** Recruit 24 campus ambassadors across all ACC campuses
 **Role:** Be the face of entrepreneurship on your campus
