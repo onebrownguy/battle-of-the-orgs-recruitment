@@ -65,7 +65,7 @@ EDGE Team is Austin Community College's premier student organization for aspirin
 
 ## 📚 What's in This Folder?
 
-### General EDGE Team One-Pagers:
+### General EDGE Team Information Sheets:
 
 **Click to view in your browser:**
 - [**EDGE_Team_One_Pager.html**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/EDGE_Team_One_Pager.html) - Printable HTML version (open in browser, perfect for printing)
@@ -78,18 +78,18 @@ Both files contain complete information about:
 - How to get involved
 - Contact information
 
-### Department-Specific NEST-FEST One-Pagers:
+### Department-Specific NEST-FEST Information Sheets:
 
 Tailored information for different academic departments:
 
 **Click to view:**
-- [**Computer Science - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
-- [**Fashion Incubator - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
-- [**Hospitality & Culinary - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
-- [**Liberal Arts - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
-- [**Marketing - NEST-FEST One-Pager**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
+- [**Computer Science - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
+- [**Fashion Incubator - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
+- [**Hospitality & Culinary - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
+- [**Liberal Arts - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
+- [**Marketing - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
 
-Each department one-pager includes:
+Each department information sheet includes:
 - How NEST-FEST relates to your specific field
 - Relevant entrepreneurship opportunities
 - Department-specific success stories
@@ -103,7 +103,7 @@ Each department one-pager includes:
 1. ✅ Join our ACC StudentLife page: https://austincc.campuslabs.com/engage/organization/edgeteam
 2. ✅ Join our Discord community: https://discord.gg/EgjuFMzV
 3. ✅ Email Abel at abel.rincon@g.austincc.edu
-4. ✅ Read through the EDGE Team One-Pager (links above)
+4. ✅ Read through the EDGE Team information sheet (links above)
 5. ✅ Mark your calendar for NEST-FEST (November 7, 2025)
 
 ### **This Week:**
@@ -164,11 +164,19 @@ You don't need to be a business major to join EDGE Team! We serve students from 
 
 ## 📞 Contact & Connect
 
-### **Primary Contact:**
+### **Primary Contacts:**
 - **Name:** Abel Rincon
 - **Title:** EDGE Team President
 - **Email:** [abel.rincon@g.austincc.edu](mailto:abel.rincon@g.austincc.edu)
 - **Best For:** Questions about joining, event information, partnership opportunities
+
+- **Name:** Faiza Hussain
+- **Title:** EDGE Team Vice-President
+- **Email:** [faiza.hussain@g.austincc.edu](mailto:faiza.hussain@g.austincc.edu)
+
+- **Name:** Cullen Cline
+- **Title:** Secretary
+- **Email:** [cullen.cline@g.austincc.edu](mailto:cullen.cline@g.austincc.edu)
 
 #### About Abel Rincon
 
