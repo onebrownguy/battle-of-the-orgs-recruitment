@@ -10,7 +10,7 @@ EDGE Team is a newly recognized student-led organization at Austin Community Col
 
 **Our Mission:** Building ACC's entrepreneurship ecosystem from the ground up - not just coding, but thinking like founders.
 
-**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Advisors:** Dr. Andrea Kehoe (Head of Product, Office of the Provost), Harshal Shah
+**Founded:** Summer 2025 | **President:** Abel Rincon | **Faculty Advisors:** Dr. Andrea Kehoe (Head of Product, Office of the Provost), Harshal Shah (Program Director for Entrepreneurship & Innovation Academy)
 
 ---
 
@@ -206,9 +206,17 @@ Help us partner with complementary programs and departments.
 
 **Team President:** Abel Rincon
 **Email:** abel.rincon@g.austincc.edu
-**Faculty Advisors:** Dr. Andrea Kehoe (Head of Product, Office of the Provost), Harshal Shah
-**Affiliation:** EDGE Team President
 
+**Vice-President:** Faiza Hussain
+**Email:** faiza.hussain@g.austincc.edu
+
+**Secretary:** Cullen Cline
+**Email:** cullen.cline@g.austincc.edu
+
+**Faculty Advisors:** Dr. Andrea Kehoe (Head of Product, Office of the Provost), Harshal Shah (Program Director for Entrepreneurship & Innovation Academy)
+**Affiliation:** EDGE Team Leadership
+
+**Discord:** https://discord.gg/EgjuFMzV (Join our community discussion!)
 **Website:** [Coming Soon - AI Companion Platform]
 **Social Media:** @EDGETeamACC (handles to be confirmed)
 
