@@ -78,6 +78,16 @@ Both files contain complete information about:
 - How to get involved
 - Contact information
 
+### NEST-FEST Information Sheets for All Students:
+
+Inclusive information for students across all majors and disciplines:
+
+**Click to view:**
+- [**All Students - NEST-FEST (Web Version)**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/All_Students_NEST_FEST_One_Pager.html) - Interactive web version optimized for digital sharing
+- [**All Students - NEST-FEST (Print Version)**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/All_Students_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
+
+These sheets explain why entrepreneurship matters for every ACC student, regardless of major. Topics include innovation, networking, resource access, and skill development that benefits all career paths.
+
 ### Department-Specific NEST-FEST Information Sheets:
 
 Tailored information for different academic departments:
