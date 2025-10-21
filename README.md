@@ -65,6 +65,37 @@ EDGE Team is Austin Community College's premier student organization for aspirin
 
 ## 📚 What's in This Folder?
 
+### 🔗 Quick Links - All Materials
+
+**General EDGE Team Information:**
+- [EDGE Team One-Pager (Web)](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/EDGE_Team_One_Pager.html)
+
+**All Students (Universal Materials):**
+- [All Students - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/All_Students_NEST_FEST_One_Pager.html)
+- [All Students - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/All_Students_NEST_FEST_One_Pager_Print.html)
+
+**Computer Science & IT:**
+- [CS - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
+- [CS - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager_Print.html)
+
+**Fashion Incubator:**
+- [Fashion - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
+- [Fashion - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager_Print.html)
+
+**Hospitality & Culinary Arts:**
+- [Hospitality - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
+- [Hospitality - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager_Print.html)
+
+**Liberal Arts & Student Development:**
+- [Liberal Arts - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
+- [Liberal Arts - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager_Print.html)
+
+**Marketing:**
+- [Marketing - Web Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
+- [Marketing - Print Version](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager_Print.html)
+
+---
+
 ### General EDGE Team Information Sheets:
 
 **Click to view in your browser:**
