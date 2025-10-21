@@ -90,16 +90,29 @@ These sheets explain why entrepreneurship matters for every ACC student, regardl
 
 ### Department-Specific NEST-FEST Information Sheets:
 
-Tailored information for different academic departments:
+Tailored information for different academic departments (each available in web and print formats):
 
-**Click to view:**
-- [**Computer Science - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html)
-- [**Fashion Incubator - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html)
-- [**Hospitality & Culinary - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html)
-- [**Liberal Arts - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html)
-- [**Marketing - NEST-FEST**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html)
+#### 💻 Computer Science & Information Technology
+- [**Web Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager.html) - Interactive web version
+- [**Print Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Computer_Science_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
 
-Each department information sheet includes:
+#### 👗 Fashion Incubator
+- [**Web Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager.html) - Interactive web version
+- [**Print Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Fashion_Incubator_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
+
+#### 🍽️ Hospitality Management & Culinary Arts
+- [**Web Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager.html) - Interactive web version
+- [**Print Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Hospitality_Culinary_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
+
+#### 🎓 Liberal Arts & Student Development
+- [**Web Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager.html) - Interactive web version
+- [**Print Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Liberal_Arts_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
+
+#### 📣 Marketing
+- [**Web Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager.html) - Interactive web version
+- [**Print Version**](https://onebrownguy.github.io/battle-of-the-orgs-recruitment/department-one-pagers/Marketing_NEST_FEST_One_Pager_Print.html) - Print-optimized 8.5x11 inch format
+
+**Each department information sheet includes:**
 - How NEST-FEST relates to your specific field
 - Relevant entrepreneurship opportunities
 - Department-specific success stories
